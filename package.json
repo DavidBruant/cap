@@ -1,0 +1,22 @@
+{
+  "name": "cap",
+  "version": "1.0.0",
+  "description": "An attempt at a capability URL library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DavidBruant/cap.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidBruant/cap/issues"
+  },
+  "homepage": "https://github.com/DavidBruant/cap",
+  "dependencies": {
+    "express": "^4.12.0"
+  }
+}
